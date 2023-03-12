@@ -1,0 +1,44 @@
+/* 
+#nomeid {};
+.nomedaclasse {};
+tag span {}; 
+*/
+
+body {
+    margin: 0;
+}
+
+.card {
+    width: 500px;
+    height: fit-content;
+    background-color: silver;
+    margin: 10px;
+    font-family: cursive;
+}
+
+.perfil {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(17, 97, 218);
+}
+
+.borda-card {
+    border: 3px solid rgb(17, 97, 218);
+}
+
+.icon {
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    color: rgb(17, 97, 218);
+}
+
+p {
+    color: blue;
+}
+
+span {
+    color: #000;
+}
